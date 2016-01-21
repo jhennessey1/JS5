@@ -1,0 +1,22 @@
+.header {
+	text-align: center;
+}
+
+.profpic {
+	margin: 0 45%;
+}
+
+.content-switch {
+	height: 175px;
+	width: 90%;
+	margin: 0px;
+}
+
+.content {
+	position: absolute;
+}
+
+.content-input {
+	height: 100px;
+	width: 110%;
+}
